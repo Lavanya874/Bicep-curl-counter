@@ -25,3 +25,30 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavanya874&show_icons=true&locale=en" alt="lavanya874" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya874&" alt="lavanya874" /></p>
+---
+
+## Projects
+
+### [Bicep Curl Counter](https://github.com/yourusername/Bicep-curl-counter)
+
+A computer vision project using MediaPipe to count bicep curls. It provides real-time feedback on the angles of your arms and counts the number of bicep curls performed.
+
+#### Features
+
+- Real-time bicep curl counting
+- Visual feedback on arm angle
+- Session data saving
+
+#### Installation
+
+To run this project, you need to have the following libraries installed:
+
+- OpenCV
+- MediaPipe
+- Pandas
+- Matplotlib
+
+Install them using pip:
+
+```bash
+pip install opencv-python mediapipe pandas matplotlib
